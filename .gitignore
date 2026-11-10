@@ -1,0 +1,17 @@
+node_modules/
+.openai/
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+*Private*Import*.json
+private*.json
+private-data/
+Working Copies/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
